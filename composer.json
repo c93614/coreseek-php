@@ -1,0 +1,6 @@
+{
+    "name" : "coreseek/sphinx",
+    "autoload" : {
+        "classmap" : [""]
+    }
+}
